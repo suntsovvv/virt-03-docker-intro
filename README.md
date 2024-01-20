@@ -6,7 +6,7 @@
 2. ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/cf6c6e42-c999-4f10-b1ec-94770e5c7758)
 3. ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/65a9d67f-15ef-41dc-b7e1-316a5b513cf7)
 4. ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8f8db8cb-af61-40e1-9f14-f40a0dcc0b45)
-## Задача 4
+## Задача 3
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/d87a2977-cb58-4ea4-98ad-451a8a56cadc)
 Я считаю, что контейнер остановился потому, что контейнер был запущен в неинтерактивном режиме,комбинация Ctrl-C посылает выполняемому процессу (а контейнеры запускаются как процессы) сигнал SIGINT, что значит завершение процесса.
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/d5471d64-f2d9-4949-81fa-2de2670dd701)
@@ -46,7 +46,18 @@
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/10545a66-dbff-4f2c-8951-484a46cf8802)  
 
 Удаление контейнера без остановки:  
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/eb59a700-4d33-4f33-947e-3f1a698c764b)
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/eb59a700-4d33-4f33-947e-3f1a698c764b)  
+
+## Задача 4
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/89dfc018-98ca-43ad-b7ce-eb16757737f8)
+
+
+
+ 
+
+
+
+
 
 
 
