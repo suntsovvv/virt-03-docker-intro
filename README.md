@@ -59,17 +59,13 @@
 Запускаем по новой:  
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/d3d53089-016a-4bf4-80f6-dcef8f732839)
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/db0e697b-4179-4bb8-aebd-9f78ebe9353c)
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/d57c5a98-b696-478c-bb5c-48aab1d07ffa)
+
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/0c5b0861-b9a6-4b0e-9ff9-052edfe04aeb)  
+Cjобщение означает.......  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/453c6a40-45ca-4307-a649-5c002167fb1d)
 
 
-
-
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/caaeb358-0d8d-4a44-8186-5f4b92a19b46)  
-
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/54c3b6f4-bbfa-4234-897a-70f2f4e257c2)
-Сообщение означает.......  
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/505882a4-f4b6-4f3e-88b6-b1a15686405d)
-
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/abb4f6be-a8d6-40f5-983c-a557f485191e)
 
 
 
