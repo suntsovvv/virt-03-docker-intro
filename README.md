@@ -62,7 +62,11 @@
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/caaeb358-0d8d-4a44-8186-5f4b92a19b46)  
 
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/54c3b6f4-bbfa-4234-897a-70f2f4e257c2)
-Сообщение означает
+Сообщение означает.......  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/505882a4-f4b6-4f3e-88b6-b1a15686405d)
+
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/abb4f6be-a8d6-40f5-983c-a557f485191e)
+
 
 
  
