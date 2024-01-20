@@ -51,7 +51,14 @@
 ## Задача 4
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/89dfc018-98ca-43ad-b7ce-eb16757737f8)
 
-## Задача 5
+## Задача 5  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8b156824-1794-40dd-aa2d-0c1f49e22c2c)
+Запустился файл compose.yaml, так как приналичии нескольких файлов yaml в одной директории
+Отредактируем файл compose.yaml:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8ac8b49c-1fd6-4212-899c-0d20337e63a1)
+
+Запускаем по новой:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/d3d53089-016a-4bf4-80f6-dcef8f732839)
 
 
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/caaeb358-0d8d-4a44-8186-5f4b92a19b46)
