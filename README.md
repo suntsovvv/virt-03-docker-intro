@@ -13,8 +13,44 @@
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/98bb0bb1-2537-4104-b253-fd7bc0abf26e)
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/98447126-1c9c-4053-ab79-408c2b122341)
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/aa4fc5a3-4be2-471a-8ab7-ca2997036352)
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/20bde314-ecbb-442b-9988-c9f85216d5cf)
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/a79076e8-8edd-499c-9cd2-b48f0bcf1202)
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/c83b9714-a018-4b38-8de6-bfb177c8167a)
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/a79076e8-8edd-499c-9cd2-b48f0bcf1202)  
+
+Суть возникшей проблемы проста. 
+Когда мы запускали контейнер из образа , мы указывали перенаправление порта 80 из контейнера в порт 8080 хостовой машины.
+Мы изменили конфиг сервера nginx, теперь он слушает 81 порт и на 80 порту ничего нет.
+
+### Дополнительное задание
+Останавливаем контейнер:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/405b63b8-f676-4699-968c-bda32743744a)
+
+Открываем конфигурационный файл config.v2.json контейнера:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/93489b6e-ab86-4418-a3ba-d5d4ebe62813)
+
+Меняем привязку к порту:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/3354f618-d04a-4ed2-af1f-484eaad443bd)
+
+Открываем конфигурационный файл hostconfig.json контейнера:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/9e2ccf7c-9945-439e-b0a0-6c5387f9c585)
+
+Меняем привязку к порту:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/5340f309-d799-408c-8324-010ff30d950f)
+
+Перезапускаем doker:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/25a9faef-287e-4b69-990f-3603a543b04d)
+
+Запускаем контейнер:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/0c70f89a-4ed2-4cd7-b060-72b7a68881aa)
+
+Результат:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/10545a66-dbff-4f2c-8951-484a46cf8802)  
+
+Удаление контейнера без остановки:  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/eb59a700-4d33-4f33-947e-3f1a698c764b)
+
+
+
+
 
 
 
