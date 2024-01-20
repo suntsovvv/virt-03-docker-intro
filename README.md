@@ -63,7 +63,8 @@
 
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/0c5b0861-b9a6-4b0e-9ff9-052edfe04aeb)  
 Cjобщение означает.......  
-![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/7b03db7f-3e54-4a72-8f8c-887156ae2b1b)
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/7b03db7f-3e54-4a72-8f8c-887156ae2b1b)  
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/1ecde610-59ec-4545-8973-1869fb000336)
 
 
 
