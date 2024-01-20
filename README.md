@@ -51,6 +51,10 @@
 ## Задача 4
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/89dfc018-98ca-43ad-b7ce-eb16757737f8)
 
+## Задача 5
+
+
+![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/caaeb358-0d8d-4a44-8186-5f4b92a19b46)
 
 
  
