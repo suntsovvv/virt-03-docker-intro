@@ -53,7 +53,7 @@
 
 ## Задача 5  
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8b156824-1794-40dd-aa2d-0c1f49e22c2c)
-Запустился файл compose.yaml, так как приналичии нескольких файлов yaml в одной директории
+Запустился файл compose.yaml, так как приналичии нескольких файлов yaml в одной директории,файл с именем compose.yaml используется по умолчию
 Отредактируем файл compose.yaml:  
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8ac8b49c-1fd6-4212-899c-0d20337e63a1)  
 Запускаем по новой:  
@@ -62,7 +62,7 @@
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/d57c5a98-b696-478c-bb5c-48aab1d07ffa)
 
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/0c5b0861-b9a6-4b0e-9ff9-052edfe04aeb)  
-Cjобщение означает.......  
+Я понимаю это ообщение так - имеются контейнеры, созданнные ранее в рамках этого проекта и не описанные в текущей конигурации.
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/7b03db7f-3e54-4a72-8f8c-887156ae2b1b)  
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/1ecde610-59ec-4545-8973-1869fb000336)
 
