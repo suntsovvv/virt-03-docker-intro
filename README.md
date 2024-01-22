@@ -53,7 +53,7 @@
 
 ## Задача 5  
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8b156824-1794-40dd-aa2d-0c1f49e22c2c)
-Запустился файл compose.yaml, так как приналичии нескольких файлов yaml в одной директории,файл с именем compose.yaml используется по умолчию
+Запустился файл compose.yaml, так как приналичии нескольких файлов yaml в одной директории,файл с именем compose.yaml используется по умолчию.  
 Отредактируем файл compose.yaml:  
 ![image](https://github.com/suntsovvv/virt-03-docker-intro/assets/154943765/8ac8b49c-1fd6-4212-899c-0d20337e63a1)  
 Запускаем по новой:  
